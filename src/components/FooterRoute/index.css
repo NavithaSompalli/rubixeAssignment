@@ -1,0 +1,74 @@
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #9ec1db;
+  position: bottom;
+  height: 50vh;
+  background-size: cover;
+  margin-top: 5px;
+}
+
+.about-us-section {
+  width: 35%;
+  padding-left: 10px;
+}
+
+.menus-section {
+  width: 20%;
+  padding: 10px;
+}
+
+.learn-more-section {
+  width: 25%;
+}
+
+.address-section {
+  width: 30%;
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.company-register-details-container {
+  background-color: #000000;
+  color: #c2c5cc;
+  font-family: 'Roboto';
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-menu-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #9ec1db;
+  padding: 30px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 20px;
+  color: #5c6466;
+  margin-left: 40px;
+}
+
+.paragraph {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #5c6466;
+  padding-right: 5px;
+  margin-left: 40px;
+}
+
+.menus-list {
+  list-style-type: none;
+  font-family: 'Roboto';
+  color: #5c6466;
+}

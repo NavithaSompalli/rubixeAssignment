@@ -1,0 +1,30 @@
+.who-are-you-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.rubixe-description-container {
+  width: 40%;
+  margin-right: 10px;
+}
+
+.who-are-you-heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #202224;
+}
+
+.rubixe-description {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #202224;
+}
+
+.rubixe-image {
+  height: 80%;
+  width: 80%;
+  margin-left: 30px;
+}

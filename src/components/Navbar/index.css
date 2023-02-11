@@ -1,0 +1,45 @@
+.nav-bar-container {
+  height: 20vh;
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.navbar-image {
+  height: 70px;
+  width: 70px;
+  align-self: center;
+}
+.nav-bar-logo-container {
+  display: flex;
+  flex-direction: row;
+}
+body {
+  margin: 0px;
+}
+
+.company-name {
+  font-family: 'monospace';
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.company-headline {
+  font-size: 13px;
+  color: #ffffff;
+}
+
+.menu-bar-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 60%;
+  padding-right: 10px;
+}
+.company-menu-name {
+  color: #acadac;
+  font-family: 'Roboto';
+}

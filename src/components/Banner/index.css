@@ -1,0 +1,25 @@
+.banner-container {
+  background-image: url('https://rubixe.com/img/incubationwht.jpg');
+  height: 50vh;
+  margin-top: 5px;
+}
+
+.Banner-elements {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 20%;
+  margin-left: 100px;
+  padding-top: 80px;
+}
+.headline {
+  color: #080529;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.banner-description {
+  color: #381c34;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
